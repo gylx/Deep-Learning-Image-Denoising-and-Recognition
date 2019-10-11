@@ -1,3 +1,7 @@
-# Deep Learning: HPatches Triplet Descriptor
+# Deep Learning Image Denoising and Recognition
 
-This repository contains the code and the report for the Deep Learning coursework (EE3-25 Imperial College). Use Google Colaboratory to run the notebook.
+This repository focuses on image classification based on:
+1. Use of CNN based auto-encoders to denoise images 
+2. Use of triplet covolutional neural networks for representation learning (image representations)
+
+
